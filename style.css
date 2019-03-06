@@ -1,0 +1,13 @@
+#board{
+  width:307px;
+  height:307px;
+}
+
+.box{
+  width:100px;
+  height:100px;
+  float:left;
+  background-color:pink;
+  margin-top:1px;
+  margin-left:1px;
+}
